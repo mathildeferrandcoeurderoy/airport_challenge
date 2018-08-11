@@ -1,6 +1,6 @@
 class Weather
 
   def stormy?
-    "it is stormy"    
+    true
   end
 end
