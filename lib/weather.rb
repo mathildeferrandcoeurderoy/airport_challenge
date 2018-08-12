@@ -1,6 +1,6 @@
 class Weather
 
   def stormy?
-    true
+    rand(1..10) == 10
   end
 end
